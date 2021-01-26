@@ -1,4 +1,4 @@
-package cool.scalax.practice.dotty
+package cool.scalax.exercise.dotty
 
 @main def hello: Unit = {
     println("Hello world!")

@@ -1,4 +1,4 @@
-package cool.scalax.practice.tools.zio
+package cool.scalax.exercise.tools.zio
 
 import zio.console.{Console, getStrLn, putStrLn}
 import zio.{App, ExitCode, URIO, ZEnv, ZIO}

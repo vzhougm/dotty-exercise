@@ -1,4 +1,4 @@
-package cool.scalax.practice
+package cool.scalax.exercise
 
 import zio.test.Assertion.equalTo
 import zio.test.junit.JUnitRunnableSpec

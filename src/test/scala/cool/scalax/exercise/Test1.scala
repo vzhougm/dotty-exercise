@@ -1,6 +1,6 @@
-package cool.scalax.practice
+package cool.scalax.exercise
 
-import cool.scalax.practice.dotty.msg
+import cool.scalax.exercise.dotty.msg
 import org.junit.Assert._
 import org.junit.Test
 
